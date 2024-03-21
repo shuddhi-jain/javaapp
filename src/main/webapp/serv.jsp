@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<p>this is new service page</p>
 </body>
 </html>
